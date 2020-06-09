@@ -2,3 +2,5 @@ bob
 jim
 mary
 szilárd
+balázs
+junior
